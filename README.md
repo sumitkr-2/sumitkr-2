@@ -2,12 +2,23 @@
 <h3 align="center">A passionate programmer from India 🇮🇳</h3>
 
 <div align="center">
-// i will add any further image 
-
-
+  <img src="car.gif" alt="Car Animation" width="300" />
 </div>
 
 <br/>
+
+<details open>
+  <summary><strong>🌗 Theme: Light / Dark Mode (Simulated)</strong></summary>
+  
+  - 🌓 Currently viewing in **auto mode** (adjusts with GitHub's UI)  
+  - You can use GitHub's dark/light mode toggle (top right of GitHub UI)  
+  - Emojis & icons adapt well to both themes 😊  
+</details>
+
+<br/>
+
+<details open>
+  <summary><strong>👤 About Me</strong></summary>
 
 <table>
   <tr>
@@ -21,10 +32,12 @@
 
     </td>
     <td width="40%" valign="top" align="right">
-     ![Boy sitting with computer](./car.gif)
+      <img src="car.gif" alt="Boy sitting with computer" width="200" />
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
@@ -50,7 +63,9 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+<details>
+  <summary><strong>🛠️ Languages and Tools</strong></summary>
+
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />
@@ -68,3 +83,5 @@
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />
 </p>
+
+</details>
