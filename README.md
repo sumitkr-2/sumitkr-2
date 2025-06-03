@@ -2,7 +2,8 @@
 <h3 align="center">A passionate programmer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitkr-2&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkr-2" />
+  ![car](https://github.com/user-attachments/assets/025fceb4-3f50-4dda-b105-20b89a66ba08)
+
 </div>
 
 <br/>
