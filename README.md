@@ -7,17 +7,22 @@
 
 <br/>
 
-<div align="center">
-  <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300" alt="Animated Programmer" />
-  <div align="left" style="max-width: 60%;">
-    
-- 💬 Ask me about **Programming languages and Web Development**
-- 📫 Reach me at **sumit.kumar120664@gmail.com**
-- ⚡ Fun fact: **I drink more chai than water 😄**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/)
-    
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+- 💬 Ask me about **Programming languages and Web Development**  
+- 📫 Reach me at **sumit.kumar120664@gmail.com**  
+- ⚡ Fun fact: **I drink more chai than water 😄**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/)  
+- 📝 [Medium @sumit.kumar120664](https://medium.com/@sumit.kumar120664)
+
+    </td>
+    <td width="40%" valign="top" align="right">
+      <img src="https://media.giphy.com/media/3o7aD6tbFmx0o4f6UE/giphy.gif" width="300" alt="Programming Animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
