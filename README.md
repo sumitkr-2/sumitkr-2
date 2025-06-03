@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India 🇮🇳</h3>
 
 <div align="center">
- ![Car Animation](car.gif)
+// i will add any further image 
 
 
 </div>
@@ -21,7 +21,8 @@
 
     </td>
     <td width="40%" valign="top" align="right">
-      <img src="https://media.giphy.com/media/3o7aD6tbFmx0o4f6UE/giphy.gif" width="300" alt="Programming Animation"/>
+      ![Car Animation](car.gif)
+
     </td>
   </tr>
 </table>
