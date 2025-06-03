@@ -2,7 +2,8 @@
 <h3 align="center">A passionate programmer from India 🇮🇳</h3>
 
 <div align="center">
- 
+ ![Car Animation](car.gif)
+
 
 </div>
 
