@@ -21,8 +21,7 @@
 
     </td>
     <td width="40%" valign="top" align="right">
-      ![Car Animation](car.gif)
-
+     ![Boy sitting with computer](./car.gif)
     </td>
   </tr>
 </table>
