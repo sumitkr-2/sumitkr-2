@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India 🇮🇳</h3>
 
 <div align="center">
-  ![car](https://github.com/user-attachments/assets/025fceb4-3f50-4dda-b105-20b89a66ba08)
+ 
 
 </div>
 
