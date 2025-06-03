@@ -8,8 +8,8 @@
 <br/>
 
 <div align="center">
-  <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300"/>
-  <div align="left" width="60%">
+  <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300" alt="Animated Programmer" />
+  <div align="left" style="max-width: 60%;">
     
 - 💬 Ask me about **Programming languages and Web Development**
 - 📫 Reach me at **sumit.kumar120664@gmail.com**
@@ -41,7 +41,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🛠️ Languages and Tools:
@@ -60,7 +59,5 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" title="TailwindCSS" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" />
-  <img src="https://img.icons8.com/color/48/000000/github-actions.png" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />
 </p>
-
-
