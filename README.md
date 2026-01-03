@@ -1,34 +1,34 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-  <b>Pre-final year CSE student</b> • DSA (C++) • Frontend (React)  
+  <b>Pre-final year CSE @ NIT Delhi</b><br/>
+  DSA (C++) • Frontend (React) • System Design Basics
 </p>
 
 <p align="center">
-  <i>Clean code • Consistent effort • Real projects</i>
+  <i>Clean code • Consistent effort • Real-world projects</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Overview
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" valign="top">
 
-- 🎓 Computer Science Undergraduate (Pre-final year)
-- 💻 Strong in **DSA (C++)** and **Frontend (React)**
-- 🚀 Building real projects, not tutorials
-- 🎯 Targeting **SDE / Frontend Internship** roles
-- ☕ Fun fact: I drink more chai than water
+- 🎓 **B.Tech CSE (2023–2027)** — CGPA: **7.87**
+- 💡 Strong in **DSA (C++)**, **Frontend (React)**
+- 🧠 Exploring **System Design, Scalability, Fault Tolerance**
+- 🚀 Build-first mindset (no tutorial cloning)
+- 🎯 Targeting **SDE / Frontend Internships**
+- ☕ Drinks more chai than water
 
 📫 **Email:** sumit.kumar120664@gmail.com  
 
 </td>
-<td width="40%" align="center">
-
-<img src="./car.gif" width="260" />
-
+<td width="35%" align="center">
+  <img src="./car.gif" width="220" />
 </td>
 </tr>
 </table>
@@ -39,17 +39,19 @@
 
 <table>
 <tr>
-<th align="left">Languages</th>
-<th align="left">Frontend</th>
-<th align="left">Backend</th>
-<th align="left">Tools</th>
+<td width="25%"><b>Languages</b></td>
+<td width="25%"><b>Frontend</b></td>
+<td width="25%"><b>Backend</b></td>
+<td width="25%"><b>Tools</b></td>
 </tr>
 
 <tr>
 <td>
 
+- C
 - C++
 - JavaScript
+- Python
 
 </td>
 <td>
@@ -58,17 +60,21 @@
 - HTML
 - CSS
 - Tailwind
+- WebSockets
 
 </td>
 <td>
 
+- FastAPI
+- REST APIs
 - Node.js (basic)
 
 </td>
 <td>
 
-- Git
-- GitHub
+- Docker
+- Git & GitHub
+- Linux (basic)
 - VS Code
 
 </td>
@@ -77,55 +83,68 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlight Projects (Dashboard View)
 
 <table>
 <tr>
 <th align="left">Project</th>
-<th align="left">Tech</th>
-<th align="left">Highlights</th>
+<th align="left">Stack</th>
+<th align="left">What It Solves</th>
+</tr>
+
+<tr>
+<td><b>Sentinellus v2.0</b></td>
+<td>FastAPI, React, Docker</td>
+<td>Self-healing infra • Auto-restart • Horizontal scaling (3–13 nodes)</td>
+</tr>
+
+<tr>
+<td><b>DSA Verse</b></td>
+<td>JS, HTML, Canvas</td>
+<td>15+ animated algorithms • 448-question SDE sheet</td>
+</tr>
+
+<tr>
+<td><b>Doctor AI</b></td>
+<td>React, Python, MySQL</td>
+<td>AI health assistant • Structured medicine info • Safe LLM prompts</td>
 </tr>
 
 <tr>
 <td><b>Portfolio Website</b></td>
 <td>React, Tailwind</td>
-<td>Clean UI • Responsive • Deployed</td>
-</tr>
-
-<tr>
-<td><b>DSA Practice Repository</b></td>
-<td>C++</td>
-<td>Topic-wise solutions • Clear explanations</td>
-</tr>
-
-<tr>
-<td><b>Mini Web Apps</b></td>
-<td>React, JS</td>
-<td>State management • API usage</td>
+<td>Responsive UI • Clean design • Deployed</td>
 </tr>
 </table>
 
-👉 Make sure these repos are **pinned** on GitHub.
+👉 **Pin these repositories** on GitHub.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr-2&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr-2&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Detailed GitHub Metrics
+## 📈 Detailed Metrics (Auto-updated Dashboard)
 
 <p align="center">
   <img src="./github-metrics.svg" />
 </p>
+
+---
+
+## 🏆 Coding & Leadership
+
+- 🧩 **450+ DSA problems** on LeetCode  
+- 🧠 **600+ problems** across platforms  
+- 🏆 Led **AI Hackathon (500+ participants)**  
+- 👥 Co-organized inter-college hackathon  
+- 🎯 Content Head — **UPVISION Tech Club**
 
 ---
 
@@ -146,5 +165,5 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories
+  ⭐ If this profile helped you, consider starring my repositories
 </p>
