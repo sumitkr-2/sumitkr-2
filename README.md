@@ -1,57 +1,53 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-  <b>Pre-final year CSE @ NIT Delhi</b><br/>
-  DSA (C++) • Frontend (React) • System Design Basics
+  <b>Pre-final year CSE student</b> • DSA (C++) • Frontend (React)
 </p>
 
 <p align="center">
-  <i>Clean code • Consistent effort • Real-world projects</i>
+  <i>Clean code • Consistent effort • Real projects</i>
 </p>
 
 ---
 
-## 👨‍💻 Overview
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-- 🎓 **B.Tech CSE (2023–2027)** — CGPA: **7.87**
-- 💡 Strong in **DSA (C++)**, **Frontend (React)**
-- 🧠 Exploring **System Design, Scalability, Fault Tolerance**
-- 🚀 Build-first mindset (no tutorial cloning)
+- 🎓 Computer Science Undergraduate (Pre-final year)
+- 💻 Strong in **DSA (C++)** and **Frontend (React)**
+- 🚀 Build real projects, not tutorial clones
 - 🎯 Targeting **SDE / Frontend Internships**
-- ☕ Drinks more chai than water
+- ☕ Fun fact: I drink more chai than water
 
 📫 **Email:** sumit.kumar120664@gmail.com  
 
 </td>
 <td width="35%" align="center">
-  <img src="./car.gif" width="220" />
+  <img src="car.gif" width="220" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧠 Tech Stack (What I Actually Use)
+## 🧠 Tech Stack
 
 <table>
 <tr>
-<td width="25%"><b>Languages</b></td>
-<td width="25%"><b>Frontend</b></td>
-<td width="25%"><b>Backend</b></td>
-<td width="25%"><b>Tools</b></td>
+<th align="left">Languages</th>
+<th align="left">Frontend</th>
+<th align="left">Backend</th>
+<th align="left">Tools</th>
 </tr>
 
 <tr>
 <td>
 
-- C
 - C++
 - JavaScript
-- Python
 
 </td>
 <td>
@@ -60,21 +56,17 @@
 - HTML
 - CSS
 - Tailwind
-- WebSockets
 
 </td>
 <td>
 
-- FastAPI
-- REST APIs
 - Node.js (basic)
 
 </td>
 <td>
 
-- Docker
-- Git & GitHub
-- Linux (basic)
+- Git
+- GitHub
 - VS Code
 
 </td>
@@ -83,45 +75,39 @@
 
 ---
 
-## 🚀 Highlight Projects (Dashboard View)
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">What It Solves</th>
-</tr>
-
-<tr>
-<td><b>Sentinellus v2.0</b></td>
-<td>FastAPI, React, Docker</td>
-<td>Self-healing infra • Auto-restart • Horizontal scaling (3–13 nodes)</td>
-</tr>
-
-<tr>
-<td><b>DSA Verse</b></td>
-<td>JS, HTML, Canvas</td>
-<td>15+ animated algorithms • 448-question SDE sheet</td>
-</tr>
-
-<tr>
-<td><b>Doctor AI</b></td>
-<td>React, Python, MySQL</td>
-<td>AI health assistant • Structured medicine info • Safe LLM prompts</td>
+<th align="left">Tech</th>
+<th align="left">Highlights</th>
 </tr>
 
 <tr>
 <td><b>Portfolio Website</b></td>
 <td>React, Tailwind</td>
-<td>Responsive UI • Clean design • Deployed</td>
+<td>Clean UI • Responsive • Deployed</td>
+</tr>
+
+<tr>
+<td><b>DSA Practice Repository</b></td>
+<td>C++</td>
+<td>Topic-wise solutions • Clear explanations</td>
+</tr>
+
+<tr>
+<td><b>Mini Web Apps</b></td>
+<td>React, JavaScript</td>
+<td>State management • API usage</td>
 </tr>
 </table>
 
-👉 **Pin these repositories** on GitHub.
+👉 **Pin these repositories on GitHub**
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -130,21 +116,34 @@
 
 ---
 
-## 📈 Detailed Metrics (Auto-updated Dashboard)
+## 🧩 GitHub Snapshot
 
 <p align="center">
-  <img src="./github-metrics.svg" />
+  <img src="github-metrics.svg" />
 </p>
 
 ---
 
-## 🏆 Coding & Leadership
+## 🔍 More Details (Click to Expand)
 
-- 🧩 **450+ DSA problems** on LeetCode  
-- 🧠 **600+ problems** across platforms  
-- 🏆 Led **AI Hackathon (500+ participants)**  
-- 👥 Co-organized inter-college hackathon  
-- 🎯 Content Head — **UPVISION Tech Club**
+<details>
+<summary><b>📈 Detailed GitHub Metrics</b></summary>
+
+<br/>
+
+<p align="center">
+  <img src="github-metrics.svg" />
+</p>
+
+</details>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -165,5 +164,5 @@
 ---
 
 <p align="center">
-  ⭐ If this profile helped you, consider starring my repositories
+  ⭐ If you like my work, consider starring my repositories
 </p>
