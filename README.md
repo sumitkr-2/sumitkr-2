@@ -113,19 +113,6 @@ VS Code
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumitkr-2&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 GitHub Snapshot (Click to Expand)
 
 <details>
@@ -136,14 +123,6 @@ VS Code
 </p>
 
 </details>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
