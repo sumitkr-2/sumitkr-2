@@ -1,33 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-
+<!-- SLIDING BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Pre-final+Year+CSE+Student;DSA+%28C%2B%2B%29+%7C+Frontend+%28React%29;Clean+Code+%7C+Real+Projects+%7C+Consistency" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Pre-final+Year+CSE+Student;DSA+(C%2B%2B)+%7C+Frontend+(React);Clean+Code+%7C+Real+Projects+%7C+Consistency" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DSA%20%2B%20Frontend-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sumitkr-2&style=flat-square&color=blue" />
 </p>
 
 ---
 
-<table align="center">
+## 👨‍💻 About Me
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="65%">
 
-### 👨‍💻 About Me
 - 🎓 Pre-final year **Computer Science** undergraduate  
-- 💻 Strong in **DSA (C++)** and **Frontend (React)**  
-- 🚀 Build **real projects**, not tutorial clones  
-- 🎯 Targeting **SDE / Frontend Internships**  
-- ☕ Drinks more chai than water  
+- 💻 Strong in **DSA (C++)** & **Frontend (React)**  
+- 🚀 Build **real projects**, not tutorials  
+- 🎯 Targeting **SDE / Frontend Internship** roles  
+- ☕ Fun fact: chai > water  
 
-📫 **Email:** `sumit.kumar120664@gmail.com`
+📫 **Email:** sumit.kumar120664@gmail.com  
 
 </td>
-<td width="45%" align="center">
+<td width="35%" align="center">
 
-<img src="./car.gif" width="220" alt="coding animation"/>
+<img src="./car.gif" width="220" />
 
 </td>
 </tr>
@@ -35,24 +39,43 @@
 
 ---
 
-## 🧠 Tech Stack (Compact View)
+## 🧠 Tech Stack (What I Actually Use)
 
-<table align="center">
+<table>
 <tr>
-<td><b>Languages</b></td>
-<td>C++, JavaScript</td>
+<td width="25%"><b>Languages</b></td>
+<td width="25%"><b>Frontend</b></td>
+<td width="25%"><b>Backend</b></td>
+<td width="25%"><b>Tools</b></td>
 </tr>
+
 <tr>
-<td><b>Frontend</b></td>
-<td>React, HTML, CSS, Tailwind</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js (basic)</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, VS Code</td>
+<td>
+
+C++  
+JavaScript  
+
+</td>
+<td>
+
+React  
+HTML  
+CSS  
+Tailwind  
+
+</td>
+<td>
+
+Node.js (basic)
+
+</td>
+<td>
+
+Git  
+GitHub  
+VS Code  
+
+</td>
 </tr>
 </table>
 
@@ -60,66 +83,66 @@
 
 ## 🚀 Project Dashboard
 
-<table align="center">
+<table>
 <tr>
-<th>Project</th>
-<th>Tech</th>
-<th>Highlights</th>
+<td><b>Project</b></td>
+<td><b>Tech</b></td>
+<td><b>Highlights</b></td>
 </tr>
 
 <tr>
-<td><b>Portfolio Website</b></td>
+<td>Portfolio Website</td>
 <td>React, Tailwind</td>
-<td>Responsive UI • Clean design • Deployed</td>
+<td>Responsive UI • Deployed</td>
 </tr>
 
 <tr>
-<td><b>DSA Practice Repo</b></td>
+<td>DSA Practice Repo</td>
 <td>C++</td>
-<td>Topic-wise solutions • Explanations</td>
+<td>Topic-wise • Explained</td>
 </tr>
 
 <tr>
-<td><b>Mini Web Apps</b></td>
+<td>Mini Web Apps</td>
 <td>React, JS</td>
-<td>State management • API usage</td>
+<td>APIs • State Mgmt</td>
 </tr>
 </table>
 
+<p><i>👉 Pin these repositories on GitHub</i></p>
+
 ---
 
-## 📊 GitHub Stats (Working)
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr-2&theme=tokyonight&hide_border=true" height="165"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumitkr-2&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 GitHub Overview (Toggle)
+## 📈 GitHub Snapshot (Click to Expand)
 
 <details>
-<summary><b>📈 Click to expand GitHub Overview</b></summary>
+<summary><b>Show detailed GitHub metrics</b></summary>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkr-2&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitkr-2&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitkr-2&theme=tokyonight"/>
+  <!-- FIXED: metrics are generated in output branch -->
+  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-metrics.svg" />
 </p>
 
 </details>
 
 ---
 
-## 🐍 Contribution Snake (FIXED – NO 404)
-
-> This **requires workflow**, image path is correct
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-contribution-grid-snake.svg" />
@@ -131,18 +154,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-kumar2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sumit.kumar120664@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/sumitkr-2">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
-
 <p align="center">
   ⭐ If you like my work, consider starring my repositories
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=90&section=footer" />
 </p>
