@@ -1,125 +1,103 @@
-<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sumit+Kumar;Pre-final+Year+CSE+Student;DSA+%26+Frontend+Developer;React+%7C+JavaScript+%7C+C%2B%2B" />
+  <b>Pre-final Year CSE Student · DSA & Frontend Focused</b><br/>
+  <b>React · JavaScript · C++</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Frontend%20%7C%20SDE-blue" />
-  <img src="https://img.shields.io/badge/Year-Pre--final-lightgrey" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%2B%20React-green" />
+  <a href="mailto:sumit.kumar120664@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-kumar2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/sumitkr-2">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-<!-- ABOUT + GIF SECTION -->
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 👨‍💻 About Me
-- 🎓 Computer Science undergraduate (Pre-final year)
-- 🔭 Building **frontend projects with React**
-- 🧠 Strong focus on **DSA (C++)**
-- 🌱 Learning **system design basics**
+### 👨‍💻 About Me
+- 🎓 Computer Science Undergraduate (Pre-final year)
+- 💻 Strong in **DSA (C++)** and **Frontend (React)**
+- 🚀 Building real projects, not tutorials
 - 🎯 Targeting **SDE / Frontend Internships**
-- 📫 **sumit.kumar120664@gmail.com**
+- ☕ Fun fact: I drink more chai than water
+
+---
+
+### 🧠 Tech Stack (What I Actually Use)
+
+**Languages**
+- C++
+- JavaScript
+
+**Frontend**
+- React
+- HTML
+- CSS
+- Tailwind
+
+**Backend (Basic)**
+- Node.js
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech | Highlights |
+|-------|------|------------|
+| **Portfolio Website** | React, Tailwind | Clean UI · Responsive · Deployed |
+| **DSA Practice Repo** | C++ | Topic-wise solutions |
+| **Mini Web Apps** | JS, React | API usage · State mgmt |
 
 </td>
 
-<td width="45%" align="center">
-  <img src="./car.gif" width="260" />
+<td width="40%" align="center">
+
+<img src="./car.gif" width="260px"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
-## 🧠 Tech Stack (What I Actually Use)
-
-<table>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Tools</b></td>
-</tr>
-<tr>
-<td align="center">C++<br/>JavaScript</td>
-<td align="center">React<br/>HTML<br/>CSS<br/>Tailwind</td>
-<td align="center">Git<br/>GitHub<br/>VS Code</td>
-</tr>
-</table>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<th>Project</th>
-<th>Tech</th>
-<th>Highlights</th>
-</tr>
-
-<tr>
-<td><b>Portfolio Website</b></td>
-<td>React, Tailwind</td>
-<td>Responsive UI • Clean design • Deployed</td>
-</tr>
-
-<tr>
-<td><b>DSA Practice Repository</b></td>
-<td>C++</td>
-<td>Topic-wise solutions • Clear explanations</td>
-</tr>
-
-<tr>
-<td><b>Mini Web App</b></td>
-<td>React, JavaScript</td>
-<td>API usage • State management</td>
-</tr>
-</table>
-
----
-
-<!-- STATS CARDS -->
-## 📈 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="./github-metrics.svg" />
 </p>
 
 ---
 
-<!-- METRICS (COLLAPSIBLE) -->
-<details>
-<summary><b>📊 Detailed GitHub Metrics</b></summary>
-
-![Metrics](https://github.com/sumitkr-2/sumitkr-2/blob/main/github-metrics.svg)
-
-</details>
-
----
-
-<!-- CONNECT -->
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-kumar2004">
+  <a href="https://www.linkedin.com/in/sumit-kumar2004/">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
   <a href="mailto:sumit.kumar120664@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
-  <a href="https://medium.com/@sumit.kumar120664">
-    <img src="https://img.icons8.com/ios-filled/50/medium-monogram.png"/>
+  <a href="https://github.com/sumitkr-2">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Clean code • Consistent effort • Real projects</i>
+  <i>Clean code · Consistent effort · Real projects</i>
 </p>
