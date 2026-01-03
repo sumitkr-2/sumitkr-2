@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-
+<!-- SLIDING BANNER -->
 <p align="center">
-  <b>Pre-final year CSE student</b> • DSA (C++) • Frontend (React)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Pre-final+Year+CSE+Student;DSA+(C%2B%2B)+%7C+Frontend+(React);Clean+Code+%7C+Real+Projects+%7C+Consistency" />
 </p>
 
 <p align="center">
-  <i>Clean code • Consistent effort • Real projects</i>
+  <img src="https://komarev.com/ghpvc/?username=sumitkr-2&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -14,60 +18,20 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%">
 
-- 🎓 Computer Science Undergraduate (Pre-final year)
-- 💻 Strong in **DSA (C++)** and **Frontend (React)**
-- 🚀 Build real projects, not tutorial clones
-- 🎯 Targeting **SDE / Frontend Internships**
-- ☕ Fun fact: I drink more chai than water
+- 🎓 Pre-final year **Computer Science** undergraduate  
+- 💻 Strong in **DSA (C++)** & **Frontend (React)**  
+- 🚀 Build **real projects**, not tutorials  
+- 🎯 Targeting **SDE / Frontend Internship** roles  
+- ☕ Fun fact: chai > water  
 
 📫 **Email:** sumit.kumar120664@gmail.com  
 
 </td>
 <td width="35%" align="center">
-  <img src="car.gif" width="220" />
-</td>
-</tr>
-</table>
 
----
-
-## 🧠 Tech Stack
-
-<table>
-<tr>
-<th align="left">Languages</th>
-<th align="left">Frontend</th>
-<th align="left">Backend</th>
-<th align="left">Tools</th>
-</tr>
-
-<tr>
-<td>
-
-- C++
-- JavaScript
-
-</td>
-<td>
-
-- React
-- HTML
-- CSS
-- Tailwind
-
-</td>
-<td>
-
-- Node.js (basic)
-
-</td>
-<td>
-
-- Git
-- GitHub
-- VS Code
+<img src="./car.gif" width="220" />
 
 </td>
 </tr>
@@ -75,64 +39,100 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Tech Stack (What I Actually Use)
 
 <table>
 <tr>
-<th align="left">Project</th>
-<th align="left">Tech</th>
-<th align="left">Highlights</th>
+<td width="25%"><b>Languages</b></td>
+<td width="25%"><b>Frontend</b></td>
+<td width="25%"><b>Backend</b></td>
+<td width="25%"><b>Tools</b></td>
 </tr>
 
 <tr>
-<td><b>Portfolio Website</b></td>
+<td>
+
+C++  
+JavaScript  
+
+</td>
+<td>
+
+React  
+HTML  
+CSS  
+Tailwind  
+
+</td>
+<td>
+
+Node.js (basic)
+
+</td>
+<td>
+
+Git  
+GitHub  
+VS Code  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Project Dashboard
+
+<table>
+<tr>
+<td><b>Project</b></td>
+<td><b>Tech</b></td>
+<td><b>Highlights</b></td>
+</tr>
+
+<tr>
+<td>Portfolio Website</td>
 <td>React, Tailwind</td>
-<td>Clean UI • Responsive • Deployed</td>
+<td>Responsive UI • Deployed</td>
 </tr>
 
 <tr>
-<td><b>DSA Practice Repository</b></td>
+<td>DSA Practice Repo</td>
 <td>C++</td>
-<td>Topic-wise solutions • Clear explanations</td>
+<td>Topic-wise • Explained</td>
 </tr>
 
 <tr>
-<td><b>Mini Web Apps</b></td>
-<td>React, JavaScript</td>
-<td>State management • API usage</td>
+<td>Mini Web Apps</td>
+<td>React, JS</td>
+<td>APIs • State Mgmt</td>
 </tr>
 </table>
 
-👉 **Pin these repositories on GitHub**
+<p><i>👉 Pin these repositories on GitHub</i></p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr-2&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumitkr-2&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 GitHub Snapshot
-
-<p align="center">
-  <img src="github-metrics.svg" />
-</p>
-
----
-
-## 🔍 More Details (Click to Expand)
+## 📈 GitHub Snapshot (Click to Expand)
 
 <details>
-<summary><b>📈 Detailed GitHub Metrics</b></summary>
-
-<br/>
+<summary><b>Show detailed GitHub metrics</b></summary>
 
 <p align="center">
-  <img src="github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/main/github-metrics.svg" />
 </p>
 
 </details>
@@ -142,7 +142,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -161,8 +161,11 @@
   </a>
 </p>
 
----
-
 <p align="center">
   ⭐ If you like my work, consider starring my repositories
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=90&section=footer" />
 </p>
