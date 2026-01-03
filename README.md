@@ -131,11 +131,8 @@ VS Code
 <details>
 <summary><b>Show detailed GitHub metrics</b></summary>
 
-<br/>
-
 <p align="center">
-  <!-- FIXED: metrics are generated in output branch -->
-  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/output/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/main/github-metrics.svg" />
 </p>
 
 </details>
