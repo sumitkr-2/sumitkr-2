@@ -1,69 +1,55 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate programmer from India 🇮🇳</h3>
-
-<div align="center">
-  <!-- Add any additional image here later -->
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-- 💬 Ask me about **Programming languages and Web Development**  
-- 📫 Reach me at **sumit.kumar120664@gmail.com**  
-- ⚡ Fun fact: **I drink more chai than water 😄**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/)  
-- 📝 [Medium @sumit.kumar120664](https://medium.com/@sumit.kumar120664)
-
-    </td>
-    <td width="40%" valign="top" align="right">
-      <img src="./car.gif" alt="Boy sitting with computer" width="100%" style="max-width: 250px; border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+Pre-final year CSE student | DSA & Frontend focused | React, JavaScript, C++
+</h3>
 
 ---
 
-## 📬 Connect with me:
+### 👨‍💻 About Me
+- 🎓 Computer Science undergraduate (Pre-final year)
+- 🔭 Currently working on **frontend projects with React** and **DSA problem solving**
+- 🌱 Learning **system design basics** and improving code quality
+- 🎯 Targeting **SDE / Frontend Internship roles**
+- 📫 Reach me at: **sumit.kumar120664@gmail.com**
 
+---
+
+### 🧠 Tech Stack (what I actually use)
+- **Languages:** C++, JavaScript
+- **Frontend:** React, HTML, CSS, Tailwind
+- **Backend (basic):** Node.js
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Featured Projects
+> (Make sure these repos are pinned on GitHub)
+
+- 🔹 **Portfolio Website** – React + Tailwind  
+  👉 Clean UI, responsive design, deployed  
+
+- 🔹 **DSA Practice Repository** – C++  
+  👉 Topic-wise solutions with explanations  
+
+- 🔹 **Mini Web App** – React / JavaScript  
+  👉 API usage, state management, clean code  
+
+---
+
+### 📊 GitHub Activity & Stats
+![Metrics](https://github.com/sumitkr-2/sumitkr-2/blob/main/metrics.svg)
+
+---
+
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sumit-kumar2004" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="https://github.com/sumitkr-2" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  <a href="mailto:sumit.kumar120664@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
   </a>
-  <a href="mailto:sumit.kumar120664@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email"/>
+  <a href="https://medium.com/@sumit.kumar120664" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>
   </a>
-  <a href="https://twitter.com/collageuse2004" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
-  </a>
-  <a href="https://t.me/sumit_kr_2" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Languages and Tools:
-
-<p>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" />
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django" />
-  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" title="Flask" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" />
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />
 </p>
