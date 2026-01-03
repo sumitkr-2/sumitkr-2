@@ -37,7 +37,8 @@ Pre-final year CSE student | DSA & Frontend focused | React, JavaScript, C++
 ---
 
 ### 📊 GitHub Activity & Stats
-![Metrics](https://github.com/sumitkr-2/sumitkr-2/blob/main/metrics.svg)
+![Metrics](https://github.com/sumitkr-2/sumitkr-2/blob/main/github-metrics.svg)
+
 
 ---
 
