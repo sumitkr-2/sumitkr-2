@@ -39,49 +39,17 @@
 
 ---
 
-## 🧠 Tech Stack (What I Actually Use)
+## 🧠 Tech Stack
 
-<table>
-<tr>
-<td width="25%"><b>Languages</b></td>
-<td width="25%"><b>Frontend</b></td>
-<td width="25%"><b>Backend</b></td>
-<td width="25%"><b>Tools</b></td>
-</tr>
+<p align="center">
 
-<tr>
-<td>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,git,github,vscode" />
 
-C++  
-JavaScript  
-
-</td>
-<td>
-
-React  
-HTML  
-CSS  
-Tailwind  
-
-</td>
-<td>
-
-Node.js (basic)
-
-</td>
-<td>
-
-Git  
-GitHub  
-VS Code  
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## 🚀 Project Dashboard
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -113,16 +81,31 @@ VS Code
 
 ---
 
-## 📈 GitHub Snapshot (Click to Expand)
-
-<details>
-<summary><b>Show detailed GitHub metrics</b></summary>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumitkr-2/sumitkr-2/main/github-metrics.svg" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr-2&theme=tokyonight&hide_border=true" />
+
 </p>
 
-</details>
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumitkr-2&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
 
 ---
 
@@ -132,9 +115,11 @@ VS Code
   <a href="https://www.linkedin.com/in/sumit-kumar2004">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:sumit.kumar120664@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
+
   <a href="https://github.com/sumitkr-2">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
