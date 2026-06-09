@@ -87,25 +87,37 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitkr-2&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr-2&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=sumitkr-2&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr-2&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Leadership
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumitkr-2&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+  <img src="https://img.shields.io/badge/ET_AI_Hackathon_2026-Semi_Finalist-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intra_College_Hackathon-Winner-success?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GDSC_NIT_Delhi-General_Secretary-4285F4?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Alumni_Cell-General_Secretary-orange?style=for-the-badge" />
+</p>
+
+<div align="center">
+
+| 🎯 Community Impact |
+|:---:|
+| Led an AI Hackathon with **500+ Participants** and **Industry Mentors** |
+
+</div>
 
 ---
 
