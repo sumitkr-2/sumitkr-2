@@ -43,7 +43,18 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,html,css,tailwind,nodejs,express,mysql,docker,git,github,vscode,fastapi" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
 
 </p>
 
