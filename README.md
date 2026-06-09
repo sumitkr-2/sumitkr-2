@@ -77,7 +77,7 @@
 </tr>
 </table>
 
-<p><i>👉 Pin these repositories on GitHub</i></p>
+
 
 ---
 
